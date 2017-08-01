@@ -1,5 +1,4 @@
-/jspm_packages
-/node_modules
+node_modules
+.idea
 /.idea
-/content-tools-component.iml
 /.git
